@@ -1,8 +1,0 @@
-201
-{"id":269392,"first_name":"Chandu","middle_name":"Goud","last_name":"Arepalli","date_of_birth":"1992-04-10 00:00:00"}
-201
-{"id":269393,"first_name":"Fani","middle_name":"Goud","last_name":"Arepalli","date_of_birth":"1989-12-27 00:00:00"}
-201
-{"id":269394,"first_name":"Vani","middle_name":"Goud","last_name":"Arepalli","date_of_birth":"1971-06-10 00:00:00"}
-201
-{"id":269395,"first_name":"Sram","middle_name":"Goud","last_name":"Arepalli","date_of_birth":"1965-01-21 00:00:00"}

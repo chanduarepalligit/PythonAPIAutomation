@@ -1,7 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="45228542-b84c-482d-96d2-e6cc6fc2a721" name="Default Changelist" comment="" />
+    <list default="true" id="45228542-b84c-482d-96d2-e6cc6fc2a721" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BatchFile/AllLibraries.bat" beforeDir="false" afterPath="$PROJECT_DIR$/BatchFile/AllLibraries.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/0225f719-e1ac-4574-a93f-ea0fac148640-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/06bd2763-ffd9-451f-8e70-6ad69271c327-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/0e54402e-d3dc-4936-a439-350c1b42c917-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/1e185990-6b38-4533-9963-885057d18221-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/22b1c041-a1c2-4600-8365-cebe8858a84d-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/3faae4d5-b958-4910-af92-17431ab4b8ae-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/4f185179-778e-4861-8184-c92788c6f102-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/54f5fefa-a854-425c-8e15-df2c8deed183-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/63112398-1955-4128-ab6f-97d54d5ad4a7-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/758b395e-ead7-46fa-91b7-ce7538e88529-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/86d45485-7534-4010-b6ab-7bb1968300f2-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/9218a2fd-b7bd-4087-80d4-8906ab689d8f-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/952693c3-5a2a-4633-b8de-8d7bd7f2e7a8-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/95398944-6244-4d9a-8d7a-f9e604d6bda9-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/9ab3a406-270c-4c1c-abab-8ea852bf6e2e-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/9d0d139b-4e0c-46fb-a8dc-730be937157d-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/a05b455f-776d-4813-85f3-c2dba66360e2-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/a5cb55ae-9a71-4db1-a0b2-53596c62279d-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/a6e236cc-ffba-4b73-acb0-5ee6dcc8a0de-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/b68df039-b7ee-40ea-81be-11679f1e42cb-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/c9b0834f-511e-448d-a873-0f0b480dc40e-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/cf565ec7-3763-4967-babb-7ac3cc8bf5f5-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/ed491ba0-dbd5-4b88-b64c-e0d57e125ea8-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/ffbbb05f-981c-4483-b8f3-cc44bf3c75ce-attachment.txt" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +41,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1cldfmyX7a3EXDgOj2F9rqEYYjg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -219,10 +250,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1591394044663" />
-    <state x="263" y="102" key="IDE.errors.dialog" timestamp="1591438391499">
+    <state x="263" y="102" key="IDE.errors.dialog" timestamp="1591586113124">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="263" y="102" key="IDE.errors.dialog/0.0.1366.728@0.0.1366.728" timestamp="1591438391499" />
+    <state x="263" y="102" key="IDE.errors.dialog/0.0.1366.728@0.0.1366.728" timestamp="1591586113124" />
     <state x="186" y="9" key="SettingsEditor" timestamp="1591444159035">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

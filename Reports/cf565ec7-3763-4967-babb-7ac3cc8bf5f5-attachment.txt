@@ -1,5 +1,0 @@
-New Student Details : {"id":269396,"first_name":"chandu","middle_name":"goud","last_name":"arepalli","date_of_birth":"10/04/1992"}
-269396
-{'id': 269396, 'language': ['Python', 'Java'], 'yearexp': '1', 'lastused': '2020', 'st_id': 269396}
-Technical Details:  {"status":"true","msg":"Add  data success"}
-{"status":"false","msg":"No Data Found"}
